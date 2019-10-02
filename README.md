@@ -1,2 +1,2 @@
 # hello-world07
-test
+///今日はいい天気です。
